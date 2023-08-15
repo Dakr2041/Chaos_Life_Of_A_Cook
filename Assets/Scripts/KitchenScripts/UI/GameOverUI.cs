@@ -23,7 +23,7 @@ public class GameOverUI : MonoBehaviour
         });
         nextButton.onClick.AddListener(() =>
         {
-            Loader.Load(Loader.Scene.DrivingScene);
+            Loader.Load(Loader.Scene.SurvivorScene);
         });
     }
 

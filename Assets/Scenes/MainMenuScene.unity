@@ -295,7 +295,7 @@ PrefabInstance:
     - target: {fileID: 7804360210788916278, guid: 3c939450f9e639f458f0266779cbe5da,
         type: 3}
       propertyPath: m_Name
-      value: lowpoly toon characters animations
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
